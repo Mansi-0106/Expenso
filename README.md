@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Created a Voice Powered Expense Tracker React App which shows graphical representation of all income and expenses with history of previous records as well and display balance.And provide users the flexibility to add and delete their transactions.
+Created an Expense Tracker React App which shows graphical representation of all income and expenses with history of previous records as well and display balance.And provide users the flexibility to add and delete their transactions.
 
 MAIN PAGE 
 ![image](https://user-images.githubusercontent.com/72784798/180693640-449b857b-0449-433d-96a2-1e41c6c77539.png)
